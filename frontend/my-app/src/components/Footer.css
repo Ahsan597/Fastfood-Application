@@ -1,0 +1,13 @@
+.bc{
+    height: 24vh;
+    width: 85%;
+    margin-left: 5vmax;
+    background-color: aquamarine;
+    border-radius: 2vmax 2vmax 0vmax 0vmax;
+}
+.copy{
+    text-align: center;
+}
+.lifoot{
+    list-style: none;
+}

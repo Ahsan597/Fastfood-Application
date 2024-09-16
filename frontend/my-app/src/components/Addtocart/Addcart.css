@@ -1,0 +1,50 @@
+  .modal {
+    /* position: fixed;  */
+    z-index: 1; /* set higher z-index value */
+    position: relative; /* position must be set for z-index to work */ 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+  .cartclear{
+    display: flex;
+    flex-direction: row;
+  }
+  .clear{
+    margin-left: 82vmax;
+    width: 5vmax;
+    border-radius: 1vmax;
+    
+  }
+  .clear:hover{
+    background-color: rgb(200, 160, 238);
+  }
+  .checkout{
+    margin-left: 47vmax;
+    margin-top: 4vmax;
+    width: 7vmax;
+    border-radius: 1vmax;
+    padding: 0.5vmax;
+  }
+  .checkout:hover{
+    background-color: rgb(200, 160, 238);
+  }

@@ -1,0 +1,34 @@
+.nvcolor{
+    background-color: rgb(236, 236, 21);
+    height: 5vmax;
+}
+.fastfire{
+    margin-left: 3vmax;
+    color: blueviolet;
+    font-size: 29px;
+}
+.sear{
+    margin-left: 10vmax;
+}
+.proadd{
+    margin-left: 15vmax;
+}
+.btn{
+    /* padding: 0.2vmax; */
+    height: 3vmax;
+    margin-top: 0.1vmax;
+}
+.btn:hover{
+    background-color: rgb(200, 160, 238);
+    color: black;
+}
+.fastfire1{
+    margin-left: 8vmax;
+}
+.linav{
+    margin-left: 4vmax;
+}
+.per1{
+    color: blueviolet;
+    cursor: pointer;
+}

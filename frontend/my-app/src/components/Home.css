@@ -1,0 +1,60 @@
+.homeheight{
+    height: 670vh;
+    z-index: 0; /* set higher z-index value */
+    position: relative; /* position must be set for z-index to work */ 
+}
+.gallery{
+    height: 50vh;
+    
+    border: 1px solid black;
+    border-radius: 4vmax;
+    
+  
+}
+.mid{
+    margin-left: 10vmax;
+    margin-top: 3vmax;
+    width: 80%;
+}
+.offers{
+
+}
+/* .ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+} */
+.button{
+    margin-left: 3vmax;
+    background-color: rgb(247, 237, 225);
+    border-color: rgb(247, 237, 225);
+    height: 6vh;
+    width: 10vw;
+    padding: 0.3vmax;
+    border-radius: 1vmax;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+.button:hover{
+    background-color: rgb(187, 139, 231);
+    cursor: pointer ;
+}
+.bottom{
+    margin-bottom: 2vmax;
+}
+.alloffers{
+    margin-left: 5vmax;
+    margin-top: 5vmax;
+    width: 85%;
+}
+.bcom{
+    margin-top: 3vmax;
+}
+.card{
+    margin-bottom: 13vmax;
+}
+.CARDDIVS{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,24 @@
+.imgcard{
+    border-radius: 10px;
+    height: 25vh;
+
+}
+.card-body{
+    margin-top: -1vmax;
+}
+.contentbee{
+    margin-left: 2vmax;
+    font-weight: bold;
+}
+.marginbox{
+    margin-top: -1vmax;
+}
+.btn{
+    margin-top: -1vmax;
+}
+.hr{
+    /* margin-top: 0vmax; */
+}
+.card{
+    margin-right: 3vmax;
+}

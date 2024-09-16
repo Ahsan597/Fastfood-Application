@@ -1,0 +1,10 @@
+.OwnerOrder{
+    margin-top: 60vmax;
+    height: 100vh;
+    margin-left: 41vmax;
+}
+.orderstable{
+    height: 50vh;
+    width: 70%;
+    border: 2px solid green;
+}

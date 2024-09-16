@@ -1,0 +1,48 @@
+.modal2 {
+    margin-top: 2vmax;
+    margin-bottom: 2vmax;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .loginerror{
+    margin-left: .5vmax;
+    margin-top: 10vmax;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-weight: bolder;
+    width: 15%;
+}
+  .signintext{
+    margin-left: 5vmax;
+  }
+  .modal-content2 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  .btnsh2{
+    /* position: absolute; */
+    margin-left: 1vmax;
+    margin-top: 1vmax;
+    color: rgb(187, 139, 231);
+}
+  .BTN{
+    margin-top: 1vmax;
+    margin-left: 5.5vmax;
+  }
+  .newacc{
+    text-decoration: none;
+    margin-left: 5vmax;
+  }
+
+  .mm{
+    margin-top: 2vmax;
+    margin-bottom: -2vmax;
+    color:rgb(187, 139, 231); 
+  }
